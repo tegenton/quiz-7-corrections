@@ -56,7 +56,7 @@ Incorrect: *The `ArrayList` default constructor.*
 In my opinion, constructors are methods, but (they are different in some respects)[https://stackoverflow.com/questions/3646461/can-i-say-a-constructor-is-a-method]
 
 ## Question 13
-*Consider the following code segment, which is designed to print only those values in an array that are multiples of 5.
+*Consider the following code segment, which is designed to print only those values in an array that are multiples of 5.*
 ```java
 for (int i = 0; i < numbers.size(); i++) {
     if (numbers.get(i) % 5 == 0) {
