@@ -73,6 +73,9 @@ This answer is incorrect.
 
 ## Question 15
 *Both usages of the remove method (i.e., by index and by value) automatically manage the shifting of elements to preserve order.*
+
 Incorrect: *This statement is partially true. Removals by index automatically preserve order, but removals by value do not.*
+
 Correct: *This statement is true.*
+
 The remove by value method does not change the order of the arrayList. Removal by index also maintains the order of the list.
